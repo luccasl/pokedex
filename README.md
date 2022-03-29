@@ -1,6 +1,8 @@
 
 # Luccas' Pokedex
 
+![Application screenshot](./github-images/screenshot-web.png "Application screenshot")
+
 A NextJs web application aimed at showcasing all pokemons in an orderly manner.
 
 
