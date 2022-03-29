@@ -4,9 +4,9 @@ const Logo = () => {
     return (
         <div className='flex items-center h-full ml-6'>
             <MdCatchingPokemon className='text-white mr-1' />
-            <div className='text-white font-Montserrat text-lg'>
+            <h1 className='text-white font-Montserrat text-lg'>
                 PokeDex
-            </div>
+            </h1>
         </div>
     )
 }
