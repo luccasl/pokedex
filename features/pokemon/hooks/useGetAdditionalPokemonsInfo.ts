@@ -7,9 +7,7 @@ const useGetAdditionalPokemonsInfo = function(pokemons: any[]) {
     const [pokemonsWithAdditionalInfo, setPokemonsWithAdditionalInfo] = useState<Pokemon[]>([])
 
     useEffect(() => {
-        if (pokemons.length > 0) {
-            fetchAdditionalPokemonsInfo()
-        }
+        fetchAdditionalPokemonsInfo()
     }, [ pokemons ])
 
     const fetchAdditionalPokemonsInfo = async () => {

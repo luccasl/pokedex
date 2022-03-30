@@ -64,7 +64,8 @@ const Home: NextPage = () => {
   }, [ searchFilter ])
 
   useEffect(() => {
-    if (pokemonsWithAdditionalInfo.length > 0) {
+    console.log(pokemonsWithAdditionalInfo)
+    if (pokemons.length > 0) {
       setLoading(false)
       setPokemonGrid(pokemonsWithAdditionalInfo)
     }
