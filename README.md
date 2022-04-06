@@ -24,12 +24,3 @@ There is also a Surge demo available at:
 Be sure to also check out Surge, if you have not already done so:  
 [https://surge.sh](https://surge.sh/)
 
-
-## Static deploy
-
-Para fazer o deploy desse projeto rode
-
-```bash
-  npm run deploy
-```
-
