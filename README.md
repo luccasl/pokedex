@@ -19,7 +19,7 @@ Then, open up [http://localhost:3000](http://localhost:3000) with your browser o
 ## Surge demo
 
 There is also a Surge demo available at:  
-[http://luccas-pokedex.surge.sh](http://luccas-pokedex.surge.sh)
+[https://luccas-pokedex.surge.sh](https://luccas-pokedex.surge.sh)
 
 Be sure to also check out Surge, if you have not already done so:  
 [https://surge.sh](https://surge.sh/)
